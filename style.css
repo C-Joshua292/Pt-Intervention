@@ -1,5 +1,5 @@
+<style>
     
-
       body{
     font-family: Arial;
     text-align: center;
@@ -18,7 +18,7 @@ section{
 }
 
 .profile{
-    width: 150px;
+    width: 120px;
     border-radius: 50%;
 }
 
@@ -36,5 +36,5 @@ footer{
     color: blue;
     padding: 10px;
     margin-top: 20px;
-}
-
+    }
+</style>
