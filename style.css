@@ -1,19 +1,19 @@
 <style>
     
-      body{
+      .body{
     font-family: Arial;
     text-align: center;
     margin: 0;
     background-color: white;
 }
 
-header{
+.header{
     background-color: blue;
     color: red;
     padding: 20px;
 }
 
-section{
+.section{
     padding: 20px;
 }
 
@@ -27,11 +27,11 @@ section{
     margin: 10px;
 }
 
-button{
+.button{
     padding: 10px 20px;
 }
 
-footer{
+.footer{
     background-color: red;
     color: blue;
     padding: 10px;
