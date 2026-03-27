@@ -1,0 +1,39 @@
+    <style>
+      body{
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    background-color: white;
+}
+
+header{
+    background-color: blue;
+    color: red;
+    padding: 20px;
+}
+
+section{
+    padding: 20px;
+}
+
+.profile{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.hobby{
+    width: 120px;
+    margin: 10px;
+}
+
+button{
+    padding: 10px 20px;
+}
+
+footer{
+    background-color: red;
+    color: blue;
+    padding: 10px;
+    margin-top: 20px;
+}
+    </style>
